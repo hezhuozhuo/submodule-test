@@ -1,0 +1,3 @@
+[submodule "git_text"]
+	path = git_text
+	url = https://github.com/hezhuozhuo/git_text.git
